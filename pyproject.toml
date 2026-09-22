@@ -1,6 +1,7 @@
 [project]
-name = "service-shell"
+name = "cross-border-ai-compliance-gate"
 version = "0.1.0"
+description = "中国—东盟 AI 应用共享的可独立部署合规判定服务"
 requires-python = ">=3.11"
 
 [tool.unittest]
